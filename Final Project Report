@@ -18,7 +18,6 @@ Technologies Used
 System Architecture
 Modules
 Working Methodology
-Screenshots
 Advantages
 Limitations
 Future Scope
@@ -51,6 +50,7 @@ Filter records
 Search datasets
 Generate multiple visualizations
 Export processed datasets
+
 4. Problem Statement
 
 Many existing data cleaning tools require programming knowledge or expensive software licenses.
@@ -71,6 +71,7 @@ Requires programming knowledge
 Expensive licenses
 Time-consuming preprocessing
 Not beginner-friendly
+
 6. Proposed System
 
 The proposed system provides:
@@ -82,7 +83,9 @@ Multiple visualization options
 Export functionality
 Dark/Light themes
 Modern desktop interface
+
 7. System Requirements
+
 Hardware
 Intel i3 Processor or above
 4 GB RAM (8 GB Recommended)
@@ -96,7 +99,9 @@ Pandas
 NumPy
 Matplotlib
 OpenPyXL
+
 8. Technologies Used
+
 Technology	Purpose
 Python	Programming Language
 CustomTkinter	GUI Development
@@ -105,7 +110,9 @@ Pandas	Data Processing
 NumPy	Numerical Operations
 Matplotlib	Data Visualization
 OpenPyXL	Excel Support
+
 9. System Architecture
+
                CSV / Excel File
                       │
                       ▼
@@ -125,7 +132,9 @@ OpenPyXL	Excel Support
                       │
                       ▼
                Export Results
+
 10. Modules
+
 Module 1 – Dataset Loading
 Load CSV
 Load Excel
@@ -192,40 +201,18 @@ Export
 CSV
 Excel
 PNG Charts
+
 11. Working Methodology
+
 User loads a CSV or Excel dataset.
 Dataset statistics are displayed.
 User performs cleaning operations.
 User filters required records.
 Charts are generated.
 Cleaned datasets are exported.
-12. Screenshots
 
-Insert screenshots here.
+12. Advantages
 
-Example:
-
-Home Screen
-
-(Insert Screenshot)
-
-Dataset Overview
-
-(Insert Screenshot)
-
-Cleaning Module
-
-(Insert Screenshot)
-
-Filter Module
-
-(Insert Screenshot)
-
-Visualization Module
-
-(Insert Screenshot)
-
-13. Advantages
 Easy to use
 Modern interface
 Fast preprocessing
@@ -233,12 +220,15 @@ Interactive visualization
 Supports multiple file formats
 No programming required
 Export functionality
-14. Limitations
+
+13. Limitations
+
 Desktop application only
 No database support
 No machine learning module
 Limited to CSV and Excel files
-15. Future Scope
+
+14. Future Scope
 
 Possible enhancements include:
 
@@ -251,11 +241,13 @@ Cloud Storage Support
 Dashboard Templates
 Interactive Charts
 Statistical Analysis Module
-16. Conclusion
+
+15. Conclusion
 
 The Pro Data Cleaning & Visualization Studio successfully simplifies the process of cleaning, filtering, and visualizing datasets through an intuitive graphical interface. The application eliminates the need for manual coding during common preprocessing tasks, making it suitable for students, educators, researchers, and data analysts. With support for CSV and Excel files, multiple visualization techniques, and export capabilities, the project provides a practical solution for exploratory data analysis while offering a strong foundation for future enhancements such as machine learning integration and automated reporting.
 
-17. References
+16. References
+
 Python Documentation — https://docs.python.org/
 Pandas Documentation — https://pandas.pydata.org/
 NumPy Documentation — https://numpy.org/
