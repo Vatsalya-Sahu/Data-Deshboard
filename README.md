@@ -91,36 +91,15 @@ Export:
 
 ---
 
-# 📂 Project Structure
 
-```
-ProDataDashboard/
-│
-├── DataDeshboard2.py
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── screenshots/
-      home.png
-      cleaning.png
-      visualization.png
-```
-
----
 
 # 🚀 Installation
 
 Clone the repository
 
-```bash
-git clone https://github.com/YOUR_USERNAME/ProDataDashboard.git
-```
 
 Go into the project directory
 
-```bash
-cd ProDataDashboard
-```
 
 Install dependencies
 
@@ -131,7 +110,7 @@ pip install -r requirements.txt
 Run the application
 
 ```bash
-python DataDeshboard2.py
+python Data-Deshboard.py
 ```
 
 ---
@@ -147,19 +126,6 @@ python DataDeshboard2.py
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here after uploading them.
-
-Example:
-
-```
-screenshots/home.png
-screenshots/cleaning.png
-screenshots/charts.png
-```
-
----
 
 # Future Improvements
 
